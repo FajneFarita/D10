@@ -1,0 +1,13 @@
+least = 1732-1734
+George Washington (1732-1734) 
+
+most = 1822-1826, 1831, 1833-1841, 1843-1845
+William Henry Harrison (1822-1841) 
+Benjamin Harrison (1833-1845) 
+John Adams and Thomas Jefferson (1822-1826) 
+William McKinley (1843-1845) 
+James Monroe (1822-1831) 
+John Quincy Adams, Franklin Pierce, Ulysses S. Grant, Millard Fillmore, John Tyler, Andrew Jackson, Zachary Taylor, Abraham Lincoln, Andrew Johnson, James K. Polk, James Buchanan, Rutherford B. Hayes and Martin Van Buren (1822-1845) 
+Chester Arthur and James A. Garfield (1831-1845) 
+Grover Cleveland (1837-1845) 
+James Madison (1822-1836) 
